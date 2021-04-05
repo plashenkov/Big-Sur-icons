@@ -5,6 +5,7 @@ This repository contains macOS Big Sur style icons for the following apps:
 - Sublime Text
 - Sublime Merge
 - iTerm
+- Typora
 
 ## Credits
 
